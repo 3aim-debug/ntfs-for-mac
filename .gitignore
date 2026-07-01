@@ -1,0 +1,17 @@
+.DS_Store
+.build/
+build/
+.swiftpm/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+Package.resolved
+
+# IDE
+.idea/
+*.swp
+*~
+
+# macOS
+.AppleDouble
+.LSOverride
